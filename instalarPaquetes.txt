@@ -1,0 +1,2 @@
+install.packages("paquete", dep=TRUE) instalar
+library(paquete) caargar paquete

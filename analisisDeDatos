@@ -1,0 +1,35 @@
+Las 5 etapas del análisis de datos
+    en cualquier etapa es posible avanzar a la siguiente o retroceder a la anterior
+
+1) Enmarcar el problema y hacer las preguntas adecuadas.
+    - ¿Cuál es el objetivo de la empresa? ¿Qué queremos estimar o predecir?
+
+2) Adquirir y preparar los datos
+    - ¿Qué recurso tenemos para obtener datos?
+    - ¿Qué información es relevante?
+    - Limpiar y filtrar datos para su posterior análisis
+
+3) Visualizar los datos 
+    - Localizar en los gráficos las posibles tendencias, correlaciones o patrones
+
+4) Modelizar y evaluar los datos 
+    - Utilizar algoritmo innovador (según el problema) para crear el modelo
+    - Evaluar el modelo
+
+5) Comunicar los resultados y/o puesta en producción
+    - ¿Qué resultados hemos obtenido?
+    - ¿qué hemos aprendido?
+    - ¿los resultados tienen sentido?
+----------------------------------------------------------------------------------------
+
+Análisis retrospectivo / anlálisis predictivo 
+
+(Hardvard Business Review)
+A diferencia del petroleo no se requieren eras para poder obtener un dato sino que puede ser instantaneo 
+El dato no se pierde sin embargo debe ser refinado para extraer el mayor beneficio.
+   
+    -"El dato es el nuevo petróleo" Clive Humb. (2013-08-23). Tech giants may be huge, but nothing matches big data. The Guardian, 1, 2.
+    -"ser Data Scientist es el trabajo más sexy del siglo XX1" D.J. Patil. (2012). Data Scientist: The Sexiest Job of the 21st Century. 01-10-2012, de HBR Sitio web: https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century
+
+
+    
